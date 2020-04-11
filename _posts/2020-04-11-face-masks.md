@@ -2,7 +2,12 @@
 layout: post
 title:  "Face masks"
 date:   2020-04-11 17:17:31 +0800
-categories: claim, WHO, face-masks
+permalink: /who-face-masks
+categories:
+  - "claim"
+  - "WHO"
+  - "face-masks"
+tags: [claim, WHO, face-mask]
 ---
 
 ## Claim
