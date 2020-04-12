@@ -4,6 +4,7 @@ title:  "WHO on travel restrictions"
 date:   2020-04-12 12:00:00 +0800
 permalink: /who-travel-restrictions
 tags: [claim, WHO, travel-restrictions]
+image: /assets/img/who-travel-restrictions.png
 summary: WHO vs Norman, Bar-Yam and Taleb on travel restrictions and systemic risk, with a case study of Taiwan.
 ---
 
