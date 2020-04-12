@@ -3,6 +3,7 @@ layout: post
 title:  "WHO against face masks"
 date:   2020-04-11 17:17:31 +0800
 permalink: /who-face-masks
+published: false
 categories:
   - "claim"
   - "WHO"
