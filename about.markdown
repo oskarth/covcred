@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is a page of credible claims on the Corona virus.
+Tired of people and institutions making claims and not being accountable for them?
 
-To contribute:
+Covcred is a page of credible claims on the Corona virus.
+
+## How to contribute
 
 - Open a PR in the [Github repo](https://github.com/oskarth/covcred)
 - Edit the public [Google sheet](https://bit.ly/corona-claims)
