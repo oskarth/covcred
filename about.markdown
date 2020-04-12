@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a page of credible claims on the Corona virus.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+To contribute:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Open a PR in the [Github repo](https://github.com/oskarth/covcred)
+- Edit the public [Google sheet](https://bit.ly/corona-claims)
+- [Tweet me](https://twitter.com/oskarth)
+- [Email me](mailto:me+covcred@oskarth.com)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Better ways of contributing and commenting will come soon. Please reach out for new claims, feature suggestions, more details, errata, etc.

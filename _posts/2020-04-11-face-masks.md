@@ -10,6 +10,8 @@ categories:
 tags: [claim, WHO, face-mask]
 ---
 
+*NOTE: This post is still a work in progress and is expected to change**
+
 ## Claim
 
 > “If you are healthy, you only need to wear a mask if you are taking care of a person with suspected 2019-nCoV infection.”

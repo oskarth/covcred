@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Covcred
-email: your-email@example.com
+email: me+covcred@oskarth.com
 description: >- # this means to ignore newlines until "baseurl:"
   Credible Corona claims.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://covcred.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: oskarth
+github_username:  oskarth
 
 # Build settings
 theme: minima
