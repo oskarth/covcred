@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WHO against face masks"
+title:  "WHO against face masks (draft)"
 date:   2020-04-11 17:17:31 +0800
 permalink: /who-face-masks
 published: false
@@ -11,7 +11,7 @@ categories:
 tags: [claim, WHO, face-mask]
 ---
 
-*NOTE: This post is still a work in progress and is expected to change**
+**NOTE: This post is still a work in progress and is expected to change**
 
 ## Claim
 
