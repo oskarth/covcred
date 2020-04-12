@@ -1,6 +1,22 @@
 ---
 layout: default
 ---
+
+<!-- Twitter Card -->
+<meta property="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="twitter:site" content="{{ site.twitter_username }}">
+<meta property="twitter:image" content="{{ site.url }}{{ site.photo_embed }}">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{{ site.url }}{{ site.photo_embed }}">
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
