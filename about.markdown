@@ -15,4 +15,8 @@ Covcred is a page of credible claims on the Corona virus.
 - [Tweet me](https://twitter.com/oskarth)
 - [Email me](mailto:me+covcred@oskarth.com)
 
+or comment below.
+
 Better ways of contributing and commenting will come soon. Please reach out for new claims, feature suggestions, more details, errata, etc.
+
+<div id="commento"></div><script src="https://cdn.commento.io/js/commento.js"></script> 

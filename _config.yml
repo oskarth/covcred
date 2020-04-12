@@ -21,7 +21,7 @@
 title: Covcred
 email: me+covcred@oskarth.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Credible Corona claims.
+  Tired of people and institutions making claims and not being accountable for them? Meet Covcred, credible corona claims.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://covcred.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oskarth
