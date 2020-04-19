@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "WHO and China on human-to-human transmission"
-date:   2020-04-12 12:00:00 +0800
+date:   2020-04-20 12:00:00 +0800
+published: true
 permalink: /who-human-to-human-transmission
 tags: [claim, WHO, travel-restrictions]
 image: /assets/img/h2h.jpg
